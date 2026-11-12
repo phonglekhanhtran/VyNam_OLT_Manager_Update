@@ -1,0 +1,12 @@
+{
+  "version": "1.1.1",
+  "release_date": "2026-11-13",
+  "download_url": "https://github.com/phonglekhanhtran/VyNam_OLT_Manager_Update/releases/download/v1.1.1/GPON_OLT_Manager.exe",
+  "changelog": [
+    "Khai báo ONU chuẩn 4 bước ZXROS VTEL (nhận diện GPON S/N như VNPT07E3A200)",
+    "Tối ưu giao diện Mobile Responsive cho kỹ thuật viên hiện trường",
+    "Hệ thống 1-Click Auto Update & Cập nhật Offline bảo lưu 100% dữ liệu thiết bị"
+  ],
+  "file_size_mb": 47.71,
+  "sha256": "cf8a69d734c6aa79a400912b378805c88261a192ed97c2c8aa52347b479cc555"
+}
