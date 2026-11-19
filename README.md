@@ -1,1 +1,3 @@
-# Cap nhat GPON OLT Manager
+#  OLT Manager
+# User: admin
+# Password: admin123
